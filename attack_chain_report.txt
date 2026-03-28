@@ -1,0 +1,11 @@
+ATTACK CHAIN REPORT
+
+Stage 1: Brute force attack
+Stage 2: Account compromise
+Stage 3: Privilege escalation
+Stage 4: Data access
+
+Severity: CRITICAL
+
+Conclusion:
+Full attack chain confirmed.
